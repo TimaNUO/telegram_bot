@@ -1,0 +1,36 @@
+2024-05-28 00:55:51,040 INFO i.s.D.DemoBootApplication [main] Starting DemoBootApplication using Java 19.0.1 with PID 4348 (C:\Users\User\eclipse-workspace\DemoBoot\target\classes started by User in C:\Users\User\eclipse-workspace\DemoBoot)
+2024-05-28 00:55:51,042 INFO i.s.D.DemoBootApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-05-28 00:55:53,630 INFO i.s.D.DemoBootApplication [main] Started DemoBootApplication in 3.072 seconds (process running for 4.47)
+2024-05-28 02:04:20,175 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [io.spring.DemoBoot.DemoBootApplicationTests]: DemoBootApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-28 02:04:20,371 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration io.spring.DemoBoot.DemoBootApplication for test class io.spring.DemoBoot.DemoBootApplicationTests
+2024-05-28 02:04:20,917 WARN o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [main] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/User/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/User/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2024-05-28 02:04:20,936 INFO i.s.D.DemoBootApplicationTests [main] Starting DemoBootApplicationTests using Java 19.0.1 with PID 3300 (started by User in C:\Users\User\eclipse-workspace\demoboot)
+2024-05-28 02:04:20,937 INFO i.s.D.DemoBootApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2024-05-28 02:04:23,336 INFO i.s.D.DemoBootApplicationTests [main] Started DemoBootApplicationTests in 2.751 seconds (process running for 4.723)
+2024-05-28 02:15:04,721 INFO i.s.D.DemoBootApplication [main] Starting DemoBootApplication using Java 19.0.1 with PID 1892 (C:\Users\User\eclipse-workspace\DemoBoot\target\classes started by User in C:\Users\User\eclipse-workspace\DemoBoot)
+2024-05-28 02:15:04,723 INFO i.s.D.DemoBootApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-05-28 02:15:06,989 INFO i.s.D.DemoBootApplication [main] Started DemoBootApplication in 2.751 seconds (process running for 3.729)
+2024-05-28 02:17:57,509 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [io.spring.DemoBoot.DemoBootApplicationTests]: DemoBootApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-28 02:17:57,703 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration io.spring.DemoBoot.DemoBootApplication for test class io.spring.DemoBoot.DemoBootApplicationTests
+2024-05-28 02:17:58,209 WARN o.s.b.t.j.DuplicateJsonObjectContextCustomizerFactory$DuplicateJsonObjectContextCustomizer [main] 
+
+Found multiple occurrences of org.json.JSONObject on the class path:
+
+	jar:file:/C:/Users/User/.m2/repository/org/json/json/20180813/json-20180813.jar!/org/json/JSONObject.class
+	jar:file:/C:/Users/User/.m2/repository/com/vaadin/external/google/android-json/0.0.20131108.vaadin1/android-json-0.0.20131108.vaadin1.jar!/org/json/JSONObject.class
+
+You may wish to exclude one of them to ensure predictable runtime behavior
+
+2024-05-28 02:17:58,226 INFO i.s.D.DemoBootApplicationTests [main] Starting DemoBootApplicationTests using Java 19.0.1 with PID 17608 (started by User in C:\Users\User\eclipse-workspace\demoboot)
+2024-05-28 02:17:58,227 INFO i.s.D.DemoBootApplicationTests [main] No active profile set, falling back to 1 default profile: "default"
+2024-05-28 02:18:00,571 INFO i.s.D.DemoBootApplicationTests [main] Started DemoBootApplicationTests in 2.667 seconds (process running for 4.618)
+2024-05-28 02:20:36,160 INFO o.s.t.c.s.AnnotationConfigContextLoaderUtils [main] Could not detect default configuration classes for test class [io.spring.DemoBoot.DemoBootApplicationTests]: DemoBootApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2024-05-28 02:20:36,379 INFO o.s.b.t.c.SpringBootTestContextBootstrapper [main] Found @SpringBootConfiguration io.spring.DemoBoot.DemoBootApplication for test class io.spring.DemoBoot.DemoBootApplicationTests

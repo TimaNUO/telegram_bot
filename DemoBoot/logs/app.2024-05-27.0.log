@@ -1,0 +1,8 @@
+2024-05-27 22:16:22,931 INFO i.s.D.DemoBootApplication [main] Starting DemoBootApplication using Java 19.0.1 with PID 2520 (C:\Users\User\eclipse-workspace\DemoBoot\target\classes started by User in C:\Users\User\eclipse-workspace\DemoBoot)
+2024-05-27 22:16:22,933 INFO i.s.D.DemoBootApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-05-27 22:16:25,426 INFO i.s.D.DemoBootApplication [main] Started DemoBootApplication in 2.98 seconds (process running for 3.904)
+2024-05-27 22:16:33,495 INFO i.s.D.s.TelegramBot [java_spring_demo_bot Telegram Executor] Replied to user Tyumentsev
+2024-05-27 22:20:21,639 INFO i.s.D.DemoBootApplication [main] Starting DemoBootApplication using Java 19.0.1 with PID 18360 (C:\Users\User\eclipse-workspace\DemoBoot\target\classes started by User in C:\Users\User\eclipse-workspace\DemoBoot)
+2024-05-27 22:20:21,641 INFO i.s.D.DemoBootApplication [main] No active profile set, falling back to 1 default profile: "default"
+2024-05-27 22:20:24,065 INFO i.s.D.DemoBootApplication [main] Started DemoBootApplication in 2.917 seconds (process running for 3.843)
+2024-05-27 22:20:29,704 INFO i.s.D.s.TelegramBot [java_spring_demo_bot Telegram Executor] Replied to user Tyumentsev
